@@ -38,6 +38,14 @@ Este é um projeto do TODO APP é uma aplicação web para gerenciamento de tare
 
 Página inicial sem estar autenticado no sistema.
 
+![Começo](https://github.com/M4deN/ToDoList/blob/main/public/images/img1.png)
+
 
 Página inicial autenticado no sistema.
+
+![logado](https://github.com/M4deN/ToDoList/blob/main/public/images/img2.png)
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais informações.
 
